@@ -15,6 +15,7 @@ void print_arr(vector <pair<int, int>>& arr) {
     }
 }
 
+//Optimal Solution - Sort the Array and Merge the Overlapping index.
 void sort_method(vector <pair<int, int>>& arr) {
 
     int start = 0, end = 0;
@@ -31,7 +32,7 @@ void sort_method(vector <pair<int, int>>& arr) {
 
             end = max(it.second, end);
         } else {
-            
+
             result.push_back(make_pair(start, end));
             start = it.first;
             end = it.second;
