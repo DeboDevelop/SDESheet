@@ -20,7 +20,7 @@ void xor_method(vector<int>& arr) {
     {
         xor_result = xor_result ^ i;
     }
-    int set_bit = xor_result & ~(xor_result - 1);
+    int set_bit = xor_result & -xor_result;
     for (auto it: arr)
     {
         if(it & set_bit) {
@@ -66,7 +66,7 @@ void square(vector<int>& arr) {
 
 int main() {
     vector<int> arr = { 7, 3, 4, 5, 5, 6, 2 };
-    square(arr);
+    // square(arr);
     xor_method(arr);
     return 0;
 }
