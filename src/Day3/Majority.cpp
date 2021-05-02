@@ -9,6 +9,7 @@ Link: https://leetcode.com/problems/majority-element/
 #include <bits/stdc++.h>
 using namespace std;
 
+// Optimal Solution
 int majorityElement(vector<int>& nums) {
     int count = 0, candidate = 0;
 
