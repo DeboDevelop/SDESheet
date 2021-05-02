@@ -4,6 +4,8 @@ Search a 2D Matrix
 
 Link: https://leetcode.com/problems/search-a-2d-matrix/
 
+Link 2: https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
+
 */
 
 #include <bits/stdc++.h>
