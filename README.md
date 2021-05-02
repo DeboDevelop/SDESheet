@@ -15,3 +15,17 @@ This is the collection of solutions of all the problems listed in [Striver's SDE
 5. [Merge Overlapping Subintervals](./src/Day1/MergeIntervals.cpp)
 
 6. [Find the duplicate in an array of N+1 integers](./src/Day1/DuplicateArray.cpp)
+
+### Day 2
+
+1. [Set Matrix Zeroes](./src/Day2/SetZeros.cpp)
+
+2. [Pascal's Triangle](./src/Day2/PascalTriangle.cpp)
+
+3. [Next Permutation](./src/Day2/NextPermutation.cpp)
+
+4. [Count Inversions in an array](./src/Day2/CountInversion.cpp)
+
+5. [Best Time to Buy and Sell Stock](./src/Day2/BuyStock.cpp)
+
+6. [Rotate Image](./src/Day2/Rotate.cpp)
