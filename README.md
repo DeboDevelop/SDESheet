@@ -29,3 +29,17 @@ This is the collection of solutions of all the problems listed in [Striver's SDE
 5. [Best Time to Buy and Sell Stock](./src/Day2/BuyStock.cpp)
 
 6. [Rotate Image](./src/Day2/Rotate.cpp)
+
+### Day 3
+
+1. [Search a 2D Matrix](./src/Day3/2DMatrix.cpp)
+
+2. [Pow(x, n)](./src/Day3/Pow.cpp)
+
+3. [Majority Element](./src/Day3/Majority.cpp)
+
+4. [Majority Element II](./src/Day3/Voting.cpp)
+
+5. [Unique Paths](./src/Day3/UniquePaths.cpp)
+
+6. [Reverse Pairs](./src/Day3/ReversePair.cpp)
